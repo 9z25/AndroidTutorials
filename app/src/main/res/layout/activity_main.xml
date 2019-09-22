@@ -28,7 +28,7 @@
         android:layout_alignParentBottom="false"
         android:layout_centerInParent="false"
         android:layout_centerHorizontal="true"
-        android:text="I am poor"
+        android:text="@string/app_name"
         android:textColor="@android:color/background_dark"
         android:textSize="40sp" />
 </RelativeLayout>
